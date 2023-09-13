@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I have previous coding experience through the (near) completion of cs50. I have also taught k7-10 year olds some basic Python over the summer. I have experience in JavaScript (node and with html), Python, C, and C++, but I probably have the most experience in JavaScript.
+
+I am interested in taking this class to hopefully strengthen my knowledge of programming and to develop computational thinking skills.
+
+I am also interested in math and sciences.
+
+I'm currently working on a project that tracks data using a Chrome extension and React Native, with a Postgres database and (maybe) a Python backend which I hope this class will encourage me to complete.
+
 <!--
 **ngeor26/ngeor26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
