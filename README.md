@@ -6,7 +6,7 @@ I am interested in taking this class to hopefully strengthen my knowledge of pro
 
 I am also interested in math and sciences.
 
-I'm currently working on a project that tracks data using a Chrome extension and React Native, with a Postgres database and (maybe) a Python backend which I hope this class will encourage me to complete.
+I'm currently working on a project that tracks data using a Chrome extension and React Native, with a Postgres database and (maybe) a Python server which I hope this class will encourage me to complete.
 
 <!--
 **ngeor26/ngeor26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
